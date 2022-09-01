@@ -6,8 +6,8 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "archive-viewer",
-    "version": "0.0.0"
+    "productName": "image-viewer-tauri",
+    "version": "0.1.0"
   },
   "tauri": {
     "allowlist": {
@@ -70,7 +70,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "ArchiveViewer",
+        "title": "ImageViewerTauri",
         "width": 800,
         "height": 600,
         "minWidth": 800,
